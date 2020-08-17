@@ -75,7 +75,7 @@
 
 `git diff [本地库中历史版本] [文件名] `
 
-![](C:\Users\Administrator\Desktop\img\11.png)
+![](E:\前端课程\node\git操作\img\11.png)
 
 ### 3.分支操作
 
@@ -91,7 +91,7 @@
 
 `git checkout [分支名] `
 
-![](C:\Users\Administrator\Desktop\img\33.png)
+![](E:\前端课程\node\git操作\img\33.png)
 
 ### 4.远程操作
 
@@ -117,7 +117,7 @@
 
 `$ git clone  https://github.com/xiaoxiaoyile/mygit11.git`
 
-![](C:\Users\Administrator\Desktop\img\22.png)
+![](E:\前端课程\node\git操作\img\22.png)
 
 合并分支：
 
@@ -128,7 +128,7 @@
 
 表现
 
-![](C:\Users\Administrator\Desktop\img\解决冲突.png)
+![](E:\前端课程\node\git操作\img\解决冲突.png)
 
 冲突的解决
 
@@ -142,4 +142,4 @@
 
   注意：此时 commit 一定不能带具体文件名
 
-  ![](C:\Users\Administrator\Desktop\img\44.png)
+  ![](E:\前端课程\node\git操作\img\44.png)
